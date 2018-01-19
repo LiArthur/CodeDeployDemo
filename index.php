@@ -26,7 +26,7 @@
 </head>
 <body>
   <div align="center">
-    <h1>AWS DevOps Demo for HSBC (Xi'an) - V1</h1>
+    <h1>AWS DevOps Demo for HSBC (Xi'an) - V2</h1>
     <h2>Github + ALB + CodeDeploy + Jenkins</h2> 
     <h2>AWS BJS CodeDeploy Demo</h2>
   </div>
@@ -38,7 +38,7 @@
     $private_id = @file_get_contents("http://instance-data/latest/meta-data/local-ipv4");
   ?>
     <img src="https://s3.cn-north-1.amazonaws.com.cn/bjsdemo/CodeDeploy-Application-Code/awschina.png" width="300"/>
-    </br>    
+    </br>
     <h2>EC2 Instance ID: <?php echo $instance_id; ?></h2>
     <h2>EC2 Zone: <?php echo $zone; ?></h2>
     <h2>EC2 Private IP: <?php echo $private_id; ?></h2>
@@ -48,19 +48,3 @@
   </div>    
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
