@@ -26,7 +26,7 @@
 </head>
 <body>
   <div align="center">
-    <h1>AWS DevOps Demo for HSBC (Xi'An) - V1</h1>
+    <h1>AWS DevOps Demo for HSBC (Xi'an) - V1</h1>
     <h2>Github + ALB + CodeDeploy + Jenkins</h2> 
     <h2>AWS BJS CodeDeploy Demo</h2>
   </div>
